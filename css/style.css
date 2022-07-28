@@ -145,6 +145,7 @@
     margin-left: 75px;
     margin-top: 14px;
     margin-bottom: 14px;
+    padding-right: 15px;
   }
 
   .header__logo:focus {
@@ -242,8 +243,8 @@
   /* hero */
 
 .hero {
-  height: 720px;
-  /* height: auto; */
+  /* height: 720px; */
+  height: auto;
   margin-left: 75px;
   margin-right: 75px;
 }

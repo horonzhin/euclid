@@ -3,7 +3,7 @@
       height: 68px;
     }
     .hero {
-      height: 650px;
+      height: auto;
     }
     .hero-content {
       top: 163px;
@@ -57,7 +57,7 @@
       margin-bottom: 37px;
     }
     .questions {
-      padding-bottom: 70px;
+      padding-bottom: 60px;
     }
     .questions__title {
       max-width: 570px;

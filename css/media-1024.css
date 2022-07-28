@@ -132,7 +132,7 @@
       transition: left .3s ease-in-out;
     }
     .hero {
-      height: 610px;
+      height: auto;
     }
     .hero-content {
       top: 162px;

@@ -3,13 +3,14 @@
       padding: 0 15px;
     }
     .hero {
-      height: 820px;
+      height: auto;
     }
     .hero-content__heading {
-      font-size: 40px;
+      font-size: 30px;
+      line-height: 50px;
     }
     .swiper-slide {
-      padding-top: 100px;
+      padding: 40px;
     }
     .hero-content {
       top: 100px;
@@ -24,13 +25,13 @@
       font-size: 24px;
     }
     .burger {
-      margin-left: 20px;
+      margin-left: 10px;
     }
     .logo__img {
       width: 114px;
     }
     .header__inner {
-      margin-right: 20px;
+      margin-right: 10px;
     }
     .nav {
       left: -160vw;
@@ -56,11 +57,10 @@
     .work__item:not(:last-child) {
       margin-right: 0;
     }
-    .about-right__item {
-      padding: 0;
-    }
     .hero {
-      height: 590px;
+      margin-left: 10px;
+      margin-right: 10px;
+      height: auto;
     }
     .hero-content__heading {
       font-size: 20px;
@@ -73,6 +73,7 @@
       margin-bottom: 36px;
     }
     .hero-content__btn {
+      width: 100%;
       font-size: 12px;
       padding: 13px 29px;
     }
@@ -80,6 +81,9 @@
       text-align: center;
       top: 60px;
       left: 22px;
+    }
+    .swiper-slide {
+      padding: 20px 20px 20px 20px;;
     }
     .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
       bottom: 10px;
@@ -89,7 +93,9 @@
       height: 10px;
     }
     .about {
-      padding-top: 63px;
+      margin-left: 10px;
+      margin-right: 10px;
+      padding-top: 60px;
     }
     .about__heading {
       font-size: 24px;
@@ -116,7 +122,7 @@
       line-height: 28px;
       font-weight: 400;
       max-width: 100%;
-      margin-bottom: 9px;
+      margin-bottom: 20px;
       color: var(--black-color);
     }
     .about-left__btn {
@@ -129,6 +135,7 @@
       background-size: 64px 49px;
       background-position: left top;
       border: none;
+      padding: 0;
       padding-top: 62px;
     }
     .about-right__item:first-child {
@@ -144,9 +151,11 @@
       line-height: 28px;
     }
     .work {
+      margin-right: 10px;
+      margin-left: 10px;
       margin-top: 60px;
     }
-    .work__headeing {
+    .work__heading {
       font-size: 24px;
       margin-bottom: 20px;
     }
@@ -184,11 +193,14 @@
       margin-right: 8px;
     }
     .questions {
+      margin-left: 10px;
+      margin-right: 10px;
       margin-top: 60px;
     }
     .questions__heading {
       margin: 0;
       margin-bottom: 17px;
+      line-height: 29px;
     }
     .questions__wrapper {
       margin: 30px 0;
@@ -202,6 +214,7 @@
     .accordion-icon {
       width: 30px;
       height: 30px;
+      right: -55px;
       background-size: 18px;
       top: 42px;
     }
@@ -209,12 +222,15 @@
       font-size: 14px;
     }
     .footer {
+      padding-left: 10px;
+      padding-right: 10px;
       padding-top: 20px;
     }
     .footer-right {
       margin-bottom: 22px;
     }
     .footer__title {
+      margin-bottom: 20px;
       font-size: 24px;
     }
     .form__input::placeholder {
