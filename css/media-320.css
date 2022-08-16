@@ -86,7 +86,7 @@
       padding: 20px 20px 20px 20px;;
     }
     .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
-      bottom: 10px;
+      bottom: 50px;
     }
     .swiper-pagination-bullet {
       width: 10px;
@@ -203,18 +203,16 @@
       line-height: 29px;
     }
     .questions__wrapper {
-      margin: 30px 0;
+      margin: 0;
     }
     .questions__title {
       font-size: 14px;
       line-height: 24px;
       font-weight: 500;
-      margin-right: 50px;
     }
     .accordion-icon {
       width: 30px;
       height: 30px;
-      right: -55px;
       background-size: 18px;
       top: 42px;
     }
