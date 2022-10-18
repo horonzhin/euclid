@@ -15,17 +15,17 @@
 
 ---
 ## :computer: Desktop версия
-![highpass-desc](https://github.com/horonzhin/euclid/blob/master/img/euclid-desc.gif)
+![euclid-desc](https://github.com/horonzhin/euclid/blob/main/img/euclid-desc.gif)
 
 ---
 
 ## :pager: Laptop версия
-![highpass-desc](https://github.com/horonzhin/euclid/blob/master/img/euclid-tablet.gif)
+![euclid-tablet](https://github.com/horonzhin/euclid/blob/main/img/euclid-tablet.gif)
 
 ---
 
 ## :iphone: Mobile версия
-![highpass-desc](https://github.com/horonzhin/euclid/blob/master/img/euclid-mobile.gif)
+![euclid-mobile](https://github.com/horonzhin/euclid/blob/main/img/euclid-mobile.gif)
 
 ---
 
